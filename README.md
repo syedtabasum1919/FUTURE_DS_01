@@ -1,86 +1,107 @@
-# FUTURE_DS_01 – Business Sales Performance Analytics
+# FUTURE_DS_01 – Data Science & Analytics Internship
 
-## 📌 Task Objective
+This repository contains my work completed as part of the Future Interns Data Science & Analytics Internship Program.
 
-The objective of this task is to analyze business sales data to identify sales trends, top-performing product categories, regional performance, customer segments, and profitability. The analysis helps understand business performance and provides data-driven insights for better decision-making.
+---
 
-## 📊 Dataset
+## 📌 Task 1 – Business Sales Performance Analytics
 
-- Dataset: Superstore Sales Dataset
-- Source: Kaggle
-- The dataset contains information about sales, profit, quantity, products, categories, regions, customer segments, and order dates.
-- The analysis covers sales performance across different categories, regions, segments, and time periods.
+### Task Objective
+Analyze business sales data to identify sales trends, regional performance, customer segments, and profitability.
 
-## 🛠️ Tools Used
+### Dataset
+Superstore Sales Dataset.
 
+### Tools Used
 - Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-- Kaggle Dataset
+- Python
+- Jupyter Notebook
+- Data Visualization
 
-## 📈 Key Performance Indicators
-
-The following KPIs were analyzed:
-
+### Key Analysis
 - Total Sales
 - Total Profit
 - Total Quantity
-- Sales by Category
-- Profit by Category
 - Sales by Region
-- Sales by Customer Segment
-- Sales Trend over Time
-
-## 🔍 Key Analysis
-
-The analysis focused on:
-
-- Overall business sales and profitability
-- Sales and profit performance across product categories
-- Regional sales performance
-- Customer segment performance
-- Sales trends over time
-- Identification of high-performing categories and regions
-- Comparison of sales and profit across different business dimensions
-
-## 💡 Key Insights
-
-- The Technology category generated the highest sales, approximately $0.84M.
-- Technology also generated the highest profit, approximately $145K.
-- The West region recorded the highest sales, followed by the East region.
-- The Consumer segment contributed the highest sales, approximately $1.16M.
-- Sales showed an overall upward trend from 2015 to 2017.
-- The dashboard helps identify high-performing categories, regions, and customer segments.
-
-## 🎯 Recommendations
-
-- Focus on high-performing product categories to maintain strong sales and profitability.
-- Analyze the performance of lower-performing categories to identify improvement opportunities.
-- Strengthen business strategies in high-performing regions while exploring growth opportunities in other regions.
-- Develop targeted marketing strategies for the Consumer customer segment.
-- Monitor sales trends regularly to support data-driven business decisions.
-- Use Power BI dashboards for continuous performance tracking.
-
-## 📊 Dashboard
-
-The project includes a Power BI dashboard containing:
-
-- KPI Cards
 - Sales by Category
-- Profit by Category
-- Sales by Region
 - Sales by Customer Segment
-- Sales Trend Analysis
-- Key Business Insights
+- Sales and Profit Trends
 
-## 📁 Project Files
+### Key Insights
+- Technology generated the highest sales among the product categories.
+- Technology also contributed the highest profit.
+- The West region recorded strong sales performance.
+- The Consumer segment contributed the largest share of sales.
+- Sales showed an overall upward trend over the analyzed period.
 
-- `README.md` – Project documentation
-- Power BI dashboard/report – Business Sales Performance Analysis
+### Files
+- `Business_Sales_Performance_Dashboard.html`
+- `FUTURE_DS_01_Business_Sales_Performance.ipynb`
 
-## 👩‍💻 Internship
+---
 
-**Future Interns – Data Science & Analytics Internship**
+## 📌 Task 2 – Customer Retention & Churn Analysis
 
-**Task 1: Business Sales Performance Analytics**
+### Task Objective
+Analyze customer data to understand customer churn and identify factors that influence customer retention.
+
+### Dataset
+Telco Customer Churn Dataset.
+
+### Tools Used
+- Microsoft Excel
+- Python
+- Pandas
+- NumPy
+- Plotly
+- Google Colab
+
+### Key Analysis
+- Customer churn rate
+- Customer retention
+- Contract type
+- Customer tenure
+- Monthly charges
+- Customer demographics
+- Churn patterns
+
+### Key Insights
+- Customer churn varies across different customer groups.
+- Contract type and customer tenure are important factors associated with churn.
+- Monthly charges can influence customer churn patterns.
+- Identifying high-risk customer groups can support better retention strategies.
+
+### Files
+- `FUTURE_DS_02/FUTURE_DS_02_Customer_Churn_Analysis.ipynb`
+
+---
+
+## 🛠️ Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Business Analytics
+- Customer Churn Analysis
+- Dashboard Development
+- Python
+- Power BI
+- Microsoft Excel
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## 📂 Repository Structure
+
+```text
+FUTURE_DS_01/
+│
+├── FUTURE_DS_02/
+│   └── FUTURE_DS_02_Customer_Churn_Analysis.ipynb
+│
+├── Business_Sales_Performance_Dashboard.html
+│
+├── FUTURE_DS_01_Business_Sales_Performance.ipynb
+│
+└── README.md
