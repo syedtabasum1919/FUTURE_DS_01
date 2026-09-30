@@ -49,7 +49,6 @@ Analyze customer data to understand customer churn and identify factors that inf
 Telco Customer Churn Dataset.
 
 ### Tools Used
-- Microsoft Excel
 - Python
 - Pandas
 - NumPy
